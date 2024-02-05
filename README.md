@@ -12,8 +12,8 @@ Create an automated scheduling system for SOL testing proctors, **based on teach
  - - Session (Date/Period)
    - Location
    - Population
-   - SPED Room (True/False)
-Output:
+   - SPED Room (True/False)  
+## Output:
 - Session
 - Location
 - Population
