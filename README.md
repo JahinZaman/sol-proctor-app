@@ -23,8 +23,8 @@ Output:
 - Proctor
 - Proctor  
 Data:
-Historical data provided by the user, specifically the May 2022 Locations 3-day by subject document and the May 2022 Proctors document.
-System Workflow:
-System matches students with test examiners and proctors based on the provided data.
-The system does not schedule students; they are assumed to be already assigned to rooms.
+Historical data provided by the user, specifically the May 2022 Locations 3-day by subject document and the May 2022 Proctors document.  
+##System Workflow:
+**System matches students with test examiners and proctors based on the provided data.**
+**The system does not schedule students**; they are assumed to be already assigned to rooms.
 Matchmaking is done based on room capacity and the number of proctors required.
